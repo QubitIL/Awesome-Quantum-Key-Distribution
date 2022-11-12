@@ -2,7 +2,8 @@
 
 # Books
 
-[1] [Principles of Quantum Communication Theory: A Modern Approach] (https://www.markwilde.com/PQCT-khatri-wilde.pdf)
+[1] [Principles of Quantum Communication Theory: A Modern Approach](https://www.markwilde.com/PQCT-khatri-wilde.pdf)
+
 # Papers
 ## DARPA QKD Network
 
